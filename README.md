@@ -8,19 +8,19 @@ OIB SIP
 
 ├── Level_1_Task_1
 
- ├── index.html
- └── style.css
+    ── index.html
+    ── style.css
 
 ├── Level_1_Task_2
 
- ├── index.html
- └── style.css
+    ── index.html
+    ── style.css
 
 └── Level_1_Task_3
 
- ├── index.html
- ├── style.css
- └── script.js
+    ── index.html
+    ── style.css
+    ── script.js
 
 ## Tasks
 
@@ -48,5 +48,6 @@ Oasis Infobyte – Web Development Internship (OIBSIP)
 
 ## Author
 
-Your Name
+Hepshibha Majji
+
 
